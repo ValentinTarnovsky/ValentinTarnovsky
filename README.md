@@ -37,3 +37,4 @@ Off-keyboard: training and lifting. Mind + body balance is non-negotiable.
 #### Contact
 
 📬 [tarnovskyvalentin@gmail.com](mailto:tarnovskyvalentin@gmail.com)
+💬 [discord.sndevelopment.dev](https://sndevelopment.dev/discord)
