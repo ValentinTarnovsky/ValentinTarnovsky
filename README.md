@@ -1,15 +1,65 @@
-# 💫 About Me:
-🔭 I’m currently working on developing my skills as a Front End developer and seeking professional opportunities to kickstart my career in the tech field.<br><br>👯 I’m looking to collaborate on web projects in both Frontend and Backend, where I can apply my knowledge and learn from other professionals in the field.<br><br>🤝 I’m looking for help with establishing connections in the tech industry and gaining guidance on advancing my career as a software developer.<br><br>🌱 I’m currently learning new technologies and honing my skills in web development, as well as exploring concepts in Artificial Intelligence and Machine Learning.<br><br>⚡ In addition to being passionate about programming, I also enjoy training and staying physically fit. Maintaining a balance between mind and body is key for me!
+### Valentin Tarnovsky
 
+> Founder of **SnDevelopment** — premium Minecraft plugins, crafted with care, shipped without noise.
 
-## 🌐 Socials:
-[**LinkedIn**](https://linkedin.com/in/Valentin-Tarnovsky) 
-[**Portfolio**](https://personal-portfolio-gray-alpha.vercel.app/)<br/>
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ValentinTarnovsky&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinTarnovsky&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+#### About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Self-taught software engineer running **[SnDevelopment](https://sndevelopment.dev)** — a studio building premium Paper / Velocity plugins, proxy infra, and server setups for production Minecraft networks.
+
+Day to day I harden Java 21 server stacks (Paper, Velocity, Folia, MySQL, PlaceholderAPI / Vault / EdTools ecosystem) for the **OkiMC** network and the Sn marketplace. On the side: TypeScript / Next.js for the studio site, Cloudflare Workers for the Sn License backend, Discord automation, and an MCP server for fellow plugin developers.
+
+Off-keyboard: training and lifting — mind + body balance is non-negotiable.
+
+---
+
+#### Tech Stack
+
+**Core**
+![Java](https://img.shields.io/badge/Java%2021-6366F1?style=for-the-badge&logo=openjdk&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper%20API-8B5CF6?style=for-the-badge&logo=minecraft&logoColor=white)
+![Velocity](https://img.shields.io/badge/Velocity-60A5FA?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-1F2937?style=for-the-badge&logo=apachemaven&logoColor=white)
+![ProGuard](https://img.shields.io/badge/ProGuard-0F172A?style=for-the-badge&logoColor=white)
+
+**Web & Backend**
+![TypeScript](https://img.shields.io/badge/TypeScript-6366F1?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/CF%20Workers-8B5CF6?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-60A5FA?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Data & Infra**
+![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-6366F1?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-8B5CF6?style=for-the-badge&logo=pterodactyl&logoColor=white)
+
+**Tooling**
+![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-111827?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-60A5FA?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+#### Featured Work
+
+- **[SnDevelopment](https://sndevelopment.dev)** — studio site & catalogue. Premium plugins, setups, and textures for Minecraft servers.
+- **[MCP-MCP](https://github.com/ValentinTarnovsky/MCP-MCP)** — MCP server for Minecraft plugin developers: dependency docs, version checking, project analysis.
+- **[OkiMC-DiscordBot](https://github.com/ValentinTarnovsky/OkiMC-DiscordBot)** — production Discord bot for the OkiMC network (discord.js v14): tickets, moderation, automation.
+- **Sn Catalogue** — 40+ private plugins powering live networks (economy, proxy infra, custom enchants, events, anti-tamper). Showcase available on request.
+
+---
+
+#### GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ValentinTarnovsky&hide_border=true&bg_color=0B0F19&title_color=8B5CF6&icon_color=6366F1&text_color=E5E7EB&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinTarnovsky&hide_border=true&bg_color=0B0F19&title_color=8B5CF6&icon_color=6366F1&text_color=E5E7EB&layout=compact)
+
+---
+
+#### Contact
+
+📬 [tarnovskyvalentin@gmail.com](mailto:tarnovskyvalentin@gmail.com)
