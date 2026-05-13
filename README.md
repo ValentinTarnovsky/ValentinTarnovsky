@@ -8,7 +8,7 @@
 
 Self-taught software engineer running **[SnDevelopment](https://sndevelopment.dev)**, a studio building premium Paper / Velocity plugins, proxy infra, and server setups for production Minecraft networks.
 
-Day to day I harden Java 21 server stacks (Paper, Velocity, Folia, MySQL) for the **OkiMC** network and the Sn marketplace. On the side: TypeScript / Next.js for the studio site, Cloudflare Workers for the Sn License backend, Discord automation, and an MCP server for fellow plugin developers.
+Most of my week goes into Java work: Paper, Velocity, Folia and MySQL for the **OkiMC** network and the plugins on the Sn marketplace. The rest is whatever the studio needs that week, usually a Next.js page for the site, a Cloudflare Worker behind the Sn License system, a Discord bot, or the MCP server I keep around for other plugin devs.
 
 Off-keyboard: training and lifting. Mind + body balance is non-negotiable.
 
